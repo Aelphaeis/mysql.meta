@@ -8,6 +8,11 @@
 	<name>Mysql Metadata</name>
 	<description>Utilities for dealing with Mysql metadata in Java</description>
 
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
 		<plugins>
